@@ -22,4 +22,7 @@ I spend so much time reading [R bloggers] [1] and [Simply Statistics] [2]!
 [1]: http://www.r-bloggers.com/ "R bloggers"
 [2]: http://simplystatistics.org/		"Simply Statistics"
 First line  
-Second line
+Second line  
+## Markdown resources
+[The Official Markdown Documentation](http://daringfireball.net/projects/markdown/basics)  
+[Github's Markdown Guide](https://help.github.com/articles/github-flavored-markdown/)  
