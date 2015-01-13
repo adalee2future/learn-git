@@ -6,8 +6,7 @@
 
 - first item in list
 - second item in list
-- third item in list
-<br></br>
+- third item in list  
 
 1. first item in list
 2. second item in list
